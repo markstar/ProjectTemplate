@@ -1,0 +1,5 @@
+This project is simply a basic template containing all SWCs and files I generally need for any project.
+
+It contains SWCs for RobotLegs, Signals, Signals-Extensions-CommandSignal and StarRequests.
+
+It also has template files for ApplicationContext, ApplicationSignalBus and a StartUpCommand.
